@@ -24,5 +24,4 @@ y : position y (m)
 z : orientation z (degree: -180 ~ 180)  
 If you want to close, insert 's'    
 例如***1 0.5 120***空格分割
-<maintainer email="190258039@qq.com">maple</maintainer>
-<git url https://github.com/MapleHan/turtlebot_point_key.git>
+
